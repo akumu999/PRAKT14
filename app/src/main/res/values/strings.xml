@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PRAKT14</string>
+    <string name="next_activity">Следующий Activity</string>
+    <string name="joke_text">Генератор шуток про Чака Нориса</string>
+    <string name="dogs_text">Генератор рандомной собачки</string>
+    <string name="yes_or_no">Генератор YES или NO с изображениями</string>
+</resources>
